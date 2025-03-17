@@ -1,34 +1,23 @@
-# CollectionBuilder-Sheets
+# University of Oregon Nosatsu Collection Repository
 
-CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
-This enables live collaboration to prototype collections with minimal set up.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (*or built automatically and hosted for free on GitHub Pages!*).
+Our collection is themed around the Asian art on display at the JSMA and held by the school, especially the nōsatsu votive slips kept in Special Collections. We aim to provide an easily-viewable sampler of various slips, with attendant metadata, to make further research into the slips easier for students and other academics.
 
-Visit the [CB-Sheets demo site](https://collectionbuilder.github.io/collectionbuilder-sheets/) to see it in action and even test your own metadata!
+Exact provenance data on many of the slips is unclear, and while it turned out that tracing it was beyond the scope of this class project our hope is that our initial research can help lay the groundwork for a more extensive future project. Also, the website that currently displays the nōsatsu is extremely slow, and hard to navigate. We thought that it’d be useful to have a fast site that helps display smaller, curated examples from the larger archive, from a variety of sources within it.
 
-To learn more check [docs/sheets-metadata.md](docs/sheets-metadata.md) or visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections.
+The importance of the theme above suggests two primary groups that might be interested in this collection. The first are those who want easy access to data related to the nōsatsu strips to perform further research on provenance and other related topics . The second is students of various fields, such as Art History and Asian Studies, who want a convenient source without having to slog through the sluggish database system.
 
-Note that CB-Sheets is based on and mostly compatible with [CollectionBuilder-GH](https://github.com/CollectionBuilder/collectionbuilder-gh), but handles the metadata parsing in a fundamentally different way. 
+
+Visit the [University of Oregon Nosatsu Collection](https://collectionbuilder.github.io/collectionbuilder-sheets/) to view our collection.
+
 
 ----------
 
-## CollectionBuilder 
+## Data Management Plan
 
-<https://collectionbuilder.github.io/>
+Our data management plan lists who we are, what data we have collected, and how we have used said data. You can find the whole DMP [here](https://lunrjs.com/).
 
-CollectionBuilder is a project of University of Idaho Library's [Digital Initiatives](https://www.lib.uidaho.edu/digital/) and the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu) (CDIL) following the [Lib-Static](https://lib-static.github.io/) methodology. 
-Powered by the open source static site generator [Jekyll](https://jekyllrb.com/) and a modern static web stack, it puts collection metadata to work building beautiful sites.
+## Course
 
-The basic theme is created using [Bootstrap](https://getbootstrap.com/).
-Metadata visualizations are built using open source libraries such as [DataTables](https://datatables.net/), [Leafletjs](http://leafletjs.com/), [Spotlight gallery](https://github.com/nextapps-de/spotlight), [lazysizes](https://github.com/aFarkas/lazysizes), and [Lunr.js](https://lunrjs.com/).
-Object metadata is exposed using [Schema.org](http://schema.org) and [Open Graph protocol](http://ogp.me/) standards.
+This Collection Project was created for the LIB350m Human Resource Data Management class taught by Franny Gaede during the Winter 2025 UO school term, a class that taught how to create data collections, the intracies of data collection, and some of the bigger collections people are building today.
 
-Questions can be directed to **collectionbuilder.team@gmail.com**
-
-## License
-
-CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
-This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
-CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-gh/blob/main/LICENSE). 
-This license does not include external dependencies included in the `assets/lib` directory, which are covered by their individual licenses.
+### This Repository and linked CollectionBuilder website was created by Niko Tarnoff
