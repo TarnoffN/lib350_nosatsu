@@ -30,3 +30,7 @@ This Project was created for the LIB350m Human Resource Data Management class ta
 ### Data Ownership and Use Statement
 
 The data contained within this repository includes original images taken by Jacob G. from the University of Oregon Special Library Collections as well as an image from the Special Collections page about the Yokohama Nosatsu Kai society, and are henceforth perpetuated under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International or CC BY-NC-SA 4.0
+
+### GitHub Repository
+
+All of the data and images are hosted on our [GitHub Repository](https://github.com/TarnoffN/lib350_nosatsu).
