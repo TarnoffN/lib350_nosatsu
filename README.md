@@ -7,14 +7,14 @@ Exact provenance data on many of the slips is unclear, and while it turned out t
 The importance of the theme above suggests two primary groups that might be interested in this collection. The first are those who want easy access to data related to the nōsatsu strips to perform further research on provenance and other related topics . The second is students of various fields, such as Art History and Asian Studies, who want a convenient source without having to slog through the sluggish database system.
 
 
-Visit the [University of Oregon Nosatsu Collection](https://collectionbuilder.github.io/collectionbuilder-sheets/) to view our collection.
+Visit the [University of Oregon Nosatsu Collection](https://tarnoffn.github.io/lib350_nosatsu/) to view our collection.
 
 
 ----------
 
 ## Data Management Plan
 
-Our data management plan lists who we are, what data we have collected, and how we have used said data. You can find the whole DMP [here](https://lunrjs.com/).
+Our data management plan lists who we are, what data we have collected, and how we have used said data. You can find the whole DMP [here](https://tarnoffn.github.io/lib350_nosatsu/dmp.html).
 
 ## Course
 
